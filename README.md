@@ -1,2 +1,2 @@
-# MilAir-Classifier
-Military aircraft classifier made with Tensorflow and Google colab
+### MilAir-Classifier
+Neural netowrk made in TensorFlow trained to classify aircrafts on satellite images.
